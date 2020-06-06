@@ -1,3 +1,6 @@
+#Ashish John Stanley - March 2020
+#Extracting images to save as individual frames for datasets. 
+
 import cv2
 import argparse
 
