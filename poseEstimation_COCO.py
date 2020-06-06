@@ -1,3 +1,8 @@
+#Ashish John Stanley - 6th June 2020
+#Converting pose estimation keypoints from CVAT XML image format to COCO JSON format
+
+
+
 import numpy as np
 import xml.etree.ElementTree as ET
 from decimal import Decimal
